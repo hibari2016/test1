@@ -127,3 +127,4 @@ pull vs fetch
 
 이미지를 모아둘 images 라는 디렉토리를 먼저 만든다.
 
+![VIVIZ](./images/11.jpg)
